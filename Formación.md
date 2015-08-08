@@ -5,25 +5,25 @@ That´ s English. Ministerio de Educación y Ciencia. 2002
   
 ##Complementaria  
 Desarrollo de servicios en la nube con HTML5, Javascript y node.js 2015 Universidad Politécnica de Madrid.  
-  
+50 horas  
 E-Learning: Aulas virtuales en Moodle para uso docente 2015 Universidad de la Laguna.  
-  
+24 horas  
 Innotools: Transforma tu idea de negocio (4.ª edición) 2015 Universitat Pompeu Fabra. 
-    
+18 horas    
 Potencia tu mente (4.ª edición) 2015 Universidad de Cantabria.  
-  
+24 horas  
 Estadística para investigadores: Todo lo que siempre quiso saber y nunca se atrevió a preguntar (3.ª edición) 2015 Universidad de Salamanca.  
-  
+35 horas  
 Pensamiento Computacional en la Escuela 2015 Universidad del País Vasco/ Euskal Herriko Unibertsitatea.  
-  
+20 horas  
 Desarrollo de Aplicaciones Móviles de Realidad Aumentada y P2P 2015 UNED.  
-   
-Emprendimiento y App Invento 2015 UNED.  
-  
+40 horas     
+Emprendimiento y App Inventor 2015 UNED.  
+24 horas  
 Introducción al Business Intelligence 2015 Universitat Oberta de Catalunya.  
-  
+12 horas  
 Gestión de la Información Científica en Abierto (GICA14) 2015 Universidad Complutense de Madrid.  
-  
+24 horas  
 Desarrollo en HTML5, CSS y Javascript de WebApps, incluyendo móviles FirefoxOS* (3.ª edición) 2015 Universidad Politécnica de Madrid.  
 50 horas  
 Robots y Videojuegos en las aulas: Scratch y Arduino para profesores (2.ª edición) 2014 Universitat Pompeu Fabra.  
