@@ -8,7 +8,7 @@ Desarrollo de servicios en la nube con HTML5, Javascript y node.js 2015 Universi
 50 horas  
 E-Learning: Aulas virtuales en Moodle para uso docente 2015 Universidad de la Laguna.  
 24 horas  
-Innotools: Transforma tu idea de negocio (4.ª edición) 2015 Universitat Pompeu Fabra. 
+Innotools: Transforma tu idea de negocio (4.ª edición) 2015 Universitat Pompeu Fabra.  
 18 horas    
 Potencia tu mente (4.ª edición) 2015 Universidad de Cantabria.  
 24 horas  
