@@ -6,6 +6,10 @@ That´ s English. Ministerio de Educación y Ciencia. 2002
 ##Complementaria  
 Desarrollo de servicios en la nube con HTML5, Javascript y node.js 2015 Universidad Politécnica de Madrid.  
 50 horas  
+Oportunidades de negocio y proyección en la Unión Europea 2015 Diputación Provincial de Granada.  
+8 horas  
+La Alhambra historia, arte y patrimonio 2015 Universidad de Granada.  
+30 horas  
 E-Learning: Aulas virtuales en Moodle para uso docente 2015 Universidad de la Laguna.  
 24 horas  
 Innotools: Transforma tu idea de negocio (4.ª edición) 2015 Universitat Pompeu Fabra.  
