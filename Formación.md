@@ -4,6 +4,26 @@ Certificado de Aptitud Pedagógica. Universidad de Granada. 1996
 That´ s English. Ministerio de Educación y Ciencia. 2002    
   
 ##Complementaria  
+Desarrollo de servicios en la nube con HTML5, Javascript y node.js 2015 Universidad Politécnica de Madrid.  
+  
+E-Learning: Aulas virtuales en Moodle para uso docente 2015 Universidad de la Laguna.  
+  
+Innotools: Transforma tu idea de negocio (4.ª edición) 2015 Universitat Pompeu Fabra. 
+    
+Potencia tu mente (4.ª edición) 2015 Universidad de Cantabria.  
+  
+Estadística para investigadores: Todo lo que siempre quiso saber y nunca se atrevió a preguntar (3.ª edición) 2015 Universidad de Salamanca.  
+  
+Pensamiento Computacional en la Escuela 2015 Universidad del País Vasco/ Euskal Herriko Unibertsitatea.  
+  
+Desarrollo de Aplicaciones Móviles de Realidad Aumentada y P2P 2015 UNED.  
+   
+Emprendimiento y App Invento 2015 UNED.  
+  
+Introducción al Business Intelligence 2015 Universitat Oberta de Catalunya.  
+  
+Gestión de la Información Científica en Abierto (GICA14) 2015 Universidad Complutense de Madrid.  
+  
 Desarrollo en HTML5, CSS y Javascript de WebApps, incluyendo móviles FirefoxOS* (3.ª edición) 2015 Universidad Politécnica de Madrid.  
 50 horas  
 Robots y Videojuegos en las aulas: Scratch y Arduino para profesores (2.ª edición) 2014 Universitat Pompeu Fabra.  
@@ -22,7 +42,7 @@ Egiptología (Egyptology) 2014 Universitat Autònoma de Barcelona.
 64 horas  
 Raspberry Pi Básico. I Edición 2014 Universidad de Granada.  
 150 horas  
-Certificado de Participación: «Aprende Análisis Estadístico de Datos con R» Universidad Católica de Murcia.  
+Aprende Análisis Estadístico de Datos con R. Universidad Católica de Murcia.  
 30 horas  
 Software libre y conocimiento en abierto Universidad Politécnica de Madrid / Universidad de Zaragoza.  
 18 horas  
