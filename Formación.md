@@ -1,11 +1,11 @@
 ##Formación  
   
 ##Académica
-Licenciado en Ciencias Físicas. Universidad de Granada. 1996  
-Certificado de Aptitud Pedagógica. Universidad de Granada. 1996  
-That´ s English. Ministerio de Educación y Ciencia. 2002    
+*Licenciado en Ciencias Físicas. Universidad de Granada. 1996  
+*Certificado de Aptitud Pedagógica. Universidad de Granada. 1996  
+*That´ s English. Ministerio de Educación y Ciencia. 2002    
   
-##Complementaria  
+##Complementaria(5245 horas)  
 Desarrollo de servicios en la nube con HTML5, Javascript y node.js 2015 Universidad Politécnica de Madrid.  
 50 horas  
 Oportunidades de negocio y proyección en la Unión Europea 2015 Diputación Provincial de Granada.  
@@ -157,7 +157,7 @@ Gestión de Pyme. 1987 Instituto Nacional de Empleo. Con un modulo de derecho me
 “Pro acercamiento intelectual iberoamericano: La Biblioteca América de Santiago de Compostela”. XI Congreso Nacional de Historia de la Medicina. 1998 Santiago de Compostela.  
   
 ##Otros    
-Iniciación a la escritura creativa. Universidad de Granada-  
+Iniciación a la escritura creativa. Universidad de Granada.  
 24 horas  
 Árabe, comprensión escrita y hablada. Nivel 1 Universidad de Granada.  
 30 horas  
