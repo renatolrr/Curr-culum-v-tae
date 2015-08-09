@@ -1,3 +1,5 @@
+##Formación  
+  
 ##Académica
 Licenciado en Ciencias Físicas. Universidad de Granada. 1996  
 Certificado de Aptitud Pedagógica. Universidad de Granada. 1996  
